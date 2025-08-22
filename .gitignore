@@ -1,0 +1,20 @@
+# Documentation
+docs/
+*.md
+
+# IDE files
+.idea/
+.claude/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build/deployment files
+*.zip
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.temp
